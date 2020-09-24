@@ -1,0 +1,99 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    
+    padding-top: 0px;
+  }
+  
+  .left {
+    left: 0;
+    background-color: #fff;
+  }
+  
+  .right {
+    right: 0;
+    background-color: #fff;
+  }
+  
+  .vl {
+    border-left: 1px solid grey;
+    height: 650px;
+    position: center;
+    left: 50%;
+    margin-left: 0px;
+    top: 0;
+  }
+  
+  .nc-wd-17 {
+    width:30%;
+    box-sizing:content-box;
+    font-size:20px;
+  }
+  
+  .nc-wd-30 {
+    width:30%;
+    box-sizing:content-box;
+    font-size:20px;
+  }
+  
+  .nc-wd-49 {
+    width:60%;
+    box-sizing:content-box;
+    font-size:20px;
+  }
+  
+  input {
+    border: 1px solid lightgrey !important;
+    padding: 10px;
+    width: calc(100% - 10px);
+    margin:0px 8px 0px 8px;
+    border-radius: 5px;
+  }
+  
+  .nc-label {
+    margin:0px 0px 0px 10px;
+    height:1px;
+    font-size: 100%;
+  
+  }
+  
+  
+  input:focus {
+    border: 3px solid grey !important;
+  }
+  
+  .nc-mg-tb-17px {
+    margin:0px 0px 10px 40px;
+  }
+  
+  .nc-mg-tb-rmpx {
+    margin:10px 0px 10px 40px;
+  }
+  
+  .nc-mg-tb-rpx {
+    margin:30px 0px 0px 40px;
+  }
+  
+  input:focus, input.form-control:focus {
+  
+      outline:none !important;
+      outline-width: 0 !important;
+      box-shadow: none;
+      -moz-box-shadow: none;
+      -webkit-box-shadow: none;
+  }
+  
+  .nc-mg-t-24px {
+    margin-top: 30px;
+  }
+  
+  .nc-mg-t-20px {
+    margin: px 
+  }
+  
+  .nc-submit-btn {
+    margin: 25px 250px 0px 200px;
+  }
